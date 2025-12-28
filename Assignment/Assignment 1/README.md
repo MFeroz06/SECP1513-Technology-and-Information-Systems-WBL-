@@ -1,10 +1,15 @@
-# Assignment 1 : Video Blog (VLOG) to UTMDigital Open Day
+<div align="center">
 
-## Group Members
+# 🏢 Assignment 1: Video Blog (VLOG) to UTMDigital Open Day
+</div>
+
 ---
-1. Muhammad Fairuz bin Herman
-2. Nurul Izzati Liyana binti Hashim
-3. Chia Yu Henn
+
+## 👥 Team Members
+1. **Muhammad Fairuz bin Herman**
+2. **Izzati Liyana binti Hashim**
+3. **Chia Yu Henn**
+
 ---
 
 ## Objectives
@@ -13,7 +18,7 @@
 - Introduction of our group and the visit.
 - Overview of the Visit
 - Detail presentation on UTMDigital
-- The attended talk.
+- Describe the attended talk.
 - Conclusion and Reflection
 ---
 
