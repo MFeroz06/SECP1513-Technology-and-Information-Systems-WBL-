@@ -54,6 +54,16 @@
 | <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%201/images/Interview%20Tuesday.jpeg" width="350"> | <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%201/images/Interview%20The%20booth.jpeg" width="350">|
 |:----:|:----:|
 |Interview Session with **Mohd Hafiz bin Muhammad Nasir**, Data Center Unit UTMDigital | Interview Session with **Nurul Khairiah Musa**, Business Development Manager,TecD Malaysia |
-
+---
 ## ✅ Conclusion
+---
 > From this activity, we gained a much clearer understanding of how digital technologies support campus operation. We also learned about the role of data engineers and the future career opportunities in this field. Overall, the session was engaging and gave us valuable insights into how digital technology supports daily operations.
+---
+## VLOG to UTMDigital
+---
+<p align="center">
+  <a href="https://drive.google.com/file/d/1mc1tym-iMNzdtmMWcFnajfQvMZPmGjR4/view?usp=sharing">
+    <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%201/images/Untitled%20design%20(1).png" alt="Click me" width ="500" >
+  </a>
+</p>
+---
