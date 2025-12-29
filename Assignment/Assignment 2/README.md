@@ -80,8 +80,9 @@
 ---
 ## 🖼️ Poster
 ---
+<p align="center">
 <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%202/images/Industry%20Talk%201%20poster.jpeg" width="500">
-
+</p>
 
 
 
