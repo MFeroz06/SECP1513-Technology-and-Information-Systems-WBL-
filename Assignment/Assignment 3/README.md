@@ -60,10 +60,13 @@
 |System Development and Software Development Life Cycle (SDLC)|Project Management Methodologies|Waterfall vs Agile|
 
 ### Other
-
+<div align="center">
+  
 |<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%203/images/Photo%20session%20Serunai.jpeg" width="350">|<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%203/images/Tablemate.jpeg" width="350">|
 |:---------:|:--------:|
 |Photo Session | Tablemate |
+
+</div>
 
 ---
 
