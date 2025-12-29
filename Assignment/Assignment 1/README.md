@@ -29,7 +29,7 @@
 ### Title : System Development
 - Date : 29 Oct 2025 (Wednesday)
 - Venue : Dewan Seminar, Level 4
-- TIme : 10:15am - 11:15am
+- Time : 10:15am - 11:15am
 - PIC UTMD : En. Hakim / Pn. Hamidah
 ---
 ## ✨ Reflection
@@ -43,7 +43,17 @@
 >  I feel that visiting the organisation and attending talk helps me learn the course material better, it helped us connect what we learned in lectures to real-world applications, and it also gave us a clearer understanding of our course objectives and what we are working towards in our field of study.
 ---
 
-## Pictures
+## 🖼️ Pictures
+---
+### UTMDigital Talk
+| <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%201/images/UTMDigital%20Talk%201.jpeg" width="350"> | <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%201/images/Ditigtal%20Infra.jpeg" width ="250">  | <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%201/images/UTMDigital%20Talk%20Wednesday.jpeg" width="350"> |
+|:-----:|:----:|:----:|
+|UTMDigital Talk 1 : Information Systems | UTM Digital Talk 2 : Digital Infra & Data Engineering | UTM Digital Talk 3 : System Development |
 
-| --------- |
+### Interview Session
+| <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%201/images/Interview%20Tuesday.jpeg" width="350"> | <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Assignment/Assignment%201/images/Interview%20The%20booth.jpeg" width="350">|
+|:----:|:----:|
+|Interview Session with **Mohd Hafiz bin Muhammad Nasir**, Data Center Unit UTMDigital | Interview Session with **Nurul Khairiah Musa**, Business Development Manager,TecD Malaysia |
 
+## ✅ Conclusion
+> From this activity, we gained a much clearer understanding of how digital technologies support campus operation. We also learned about the role of data engineers and the future career opportunities in this field. Overall, the session was engaging and gave us valuable insights into how digital technology supports daily operations.
