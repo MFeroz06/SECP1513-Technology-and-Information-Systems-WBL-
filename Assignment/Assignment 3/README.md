@@ -19,6 +19,14 @@
 3. Chia Yu Henn
 ---
 
+## 🌟 Vision
+- To become a skilled and successful data engineer.
+- To build strong teamwork and collaboration within the group.
+- To master System Development and Project Management and applied to real-world industry
+## 🎯 Mission
+- To gain a clear understanding about System Development and Project Management
+- To work together effectively to complete all assigned tasks.
+
 ## 🗣️ Talk
 ---
 <div align="center">
