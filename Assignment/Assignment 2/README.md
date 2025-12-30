@@ -61,6 +61,10 @@
 > The PPG talk made me realise how important ICT jobs really are in keeping an industry tunning smoothly. I learned that ICT people are the ones who plan,build, and maintain systems so that everything works properly. It made me see that a career in ICT is not just about technology, but about making a real, meaningful contribution to an organisation.
 
 ---
+
+## ✨ Suggestion for Improvement
+---
+> Held the talk at PPG company to get real industry experience.
 ## 🖼️ Pictures
 ---
 ## PPG Talk
