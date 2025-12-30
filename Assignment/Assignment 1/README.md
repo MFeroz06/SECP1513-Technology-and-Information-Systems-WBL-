@@ -43,6 +43,9 @@
 >  I feel that visiting the organisation and attending talk helps me learn the course material better, it helped us connect what we learned in lectures to real-world applications, and it also gave us a clearer understanding of our course objectives and what we are working towards in our field of study.
 ---
 
+## 🌟 Suggestion for Improvement
+> Provide a guide for student to visit the booth, since it was cramped inside, and most of us lost our way inside and dont know where to go .
+
 ## 🖼️ Pictures
 ---
 ### UTMDigital Talk
