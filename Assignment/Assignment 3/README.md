@@ -51,6 +51,10 @@
 > After hearing the talk, I plan to learn many programming languages, as different jobs require different types of programming skills. Mastering various programming languages is good preparation for facing challenges in the industry. I will also improve my writing, communication, and technical skills. While technical skills are important, teamwork is equally important. Without teamwork, our work will not improve, and it is difficult to develop ourselves if we do not rely on our team members. Other than that, I also understand the concept of Software Development Life Cycle (SDLC), which will be a great preparation for an upcoming project and industry.
 ---
 
+## ✨ Suggestion for Improvement
+---
+> Held the talk at Serunai Company to get real industry experience.
+
 ## 🖼️ Pictures
 ---
 ### Serunai Talk
