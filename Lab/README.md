@@ -27,6 +27,10 @@
 ---
 > It's been a fun experience since I gain knowledge from the lab activity, which is PC Assembly, I also gain friends at that moments. We were having fun assembling the PC and at the same time we are too nervous for the test . The lab assistant also helped us and explain to us the step of assembling the PC.
 
+## Suggestion for Improvement
+---
+> Provide a bigger space for students to assembly the PC, since it is really cramped inside a small room with 33 people excluding lab assistant. Also provide many PC so that each students can experience assemblying the PC.
+
 ## Steps to Assembly the PC
 1. Install CPU on the Motherboard
 2. Install RAM
