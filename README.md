@@ -62,3 +62,13 @@ Credit : 03
 - Project: Design Thinking (Low Fidelity Prototype) (15%)
 - Eportfolio (30%)
 ---
+
+## ✨ Reflection
+---
+> I really enjoy joining Dr. Aryati classes, my social skills are become better than before since Dr. always ask us to present, everytime we have classes, we will present the topics. So I think because of the activity done by Dr. Aryati, my social skills and teamwork has improve
+
+---
+
+## ✨ Suggestion for Improvement
+---
+> I hope to have a lot of industry visit instead of industry talk to experience real world industry and to go to the company.
