@@ -52,7 +52,7 @@
 |<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/Testingphase.jpg" width="350">|
 |:-----:|
 
-## Design Thinking Video
+## 📽️ Design Thinking Video
 
 <p align="center">
   <a href=https://www.youtube.com/watch?v=Dbd0u3IIMYM>
