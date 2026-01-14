@@ -21,3 +21,42 @@
 
 ## ✨ Suggestion for Improvement
 > For the next Cohort, they need to make a real application , not only prototype
+
+
+## 🖼️ Pictures
+---
+### Empathy Phase
+| <img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/interview1.jpg" width="500">|<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/interview2.jpg" width="500">|<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/interview3.jpg" width="500">|
+|:----:|:-----:|:-----:|
+
+### Define Phase
+
+  
+|<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/define%20phase.jpeg" width="350">|
+|:-----:|
+
+### Ideate Phase
+
+
+|<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/ideate%20phase.jpg" width="350">|
+|:----:|
+
+### Prototype Phase
+
+|<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/Prototype%20phase%201.jpeg" width="350">|<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/Prototype%20phase%202.jpeg" width="350">|
+|:------:|:-----:|
+| Drawing | Canva |
+
+### Testing Phase
+
+|<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/Testingphase.jpg" width="350">|
+|:-----:|
+
+## Design Thinking Video
+
+<p align="center">
+  <a href=https://www.youtube.com/watch?v=Dbd0u3IIMYM>
+<img src="https://github.com/MFeroz06/SECP1513-Technology-and-Information-Systems-WBL-/blob/main/Project%20%3A%20Design%20Thinking/Images/Youtubeicon.png" alt="Click Me" width="200">
+  </a>
+</p>
+
