@@ -15,7 +15,7 @@ The talk was featured Qaisara Rohzan, the Application Developer Analyst II at PP
 
 ## ✨ Reflection
 ---
-> After hearing the talk, I gained a clearer understanding that Power BI is really needed for industry which can integrates data sources, networks, hardware, software and people. I hope to learn more about Power BI since it is very useful for real-world application and it is an extra skill for data engineering.
+> After hearing the talk, I gained a clearer understanding that Power BI is really needed for industry which brings together data sources, networks, hardware, software, and people. I hope to learn more about Power BI since it is very useful for real-world application and it is an extra skill for data engineering.
 ---
 
 ## ✨ Suggestion for Improvement
